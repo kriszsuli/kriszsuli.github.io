@@ -27,6 +27,11 @@ a {
     text-decoration: none;
 }
 
+a.lol {
+    color: #111;
+    text-decoration: underline;
+}
+
 img.emoji {
     width: 1em;
     aspect-ratio: 1/1;
@@ -265,4 +270,5 @@ footer {
     ol {
         flex-direction: column;
     }
+
 }
